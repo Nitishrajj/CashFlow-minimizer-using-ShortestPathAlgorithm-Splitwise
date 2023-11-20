@@ -7,4 +7,7 @@ How to pick the first person? To pick the first person, calculate the net amount
 
 ![Alt Text](File1.png)
 
+There's no sense in $10 making its way from Alice to Bob and then from Bob to Charlie if Alice could just give it to Charlie directly.
+
+The goal, then, in the general case is to take a debt graph and simplify it (i.e. produce a new graph with the same nodes but different edges).
 

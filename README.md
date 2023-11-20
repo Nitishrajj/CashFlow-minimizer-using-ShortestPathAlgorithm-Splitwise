@@ -18,4 +18,9 @@ Shortest path algorithm --
 A shortest path algorithm, is designed to find the most efficient path or route between two points in a graph. The goal is to minimize a certain metric, such as distance, time, or cost, while navigating through the edges of the graph.
 Two common algorithms for finding the shortest path are Dijkstra's algorithm and the Bellman-Ford algorithm, as mentioned earlier. Dijkstra's algorithm is particularly effective when dealing with graphs with non-negative weights, while the Bellman-Ford algorithm is more versatile and can handle graphs with negative weights.
 
+# Real time application
+
+# SPLITWISE APPLICATION 
+Splitwise is a popular expense-sharing application that helps friends, roommates, and groups of people track and split shared expenses. The application simplifies the complexities of dividing expenses by employing a simplified algorithmic approach.
+Splitwise uses the same approach to do the calculaitons. So, in this way we can conclude that the algorithms real world application is met. 
 

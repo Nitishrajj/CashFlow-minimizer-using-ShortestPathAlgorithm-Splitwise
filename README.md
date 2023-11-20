@@ -13,7 +13,7 @@ There's no sense in $10 making its way from Alice to Bob and then from Bob to Ch
 
 The goal, then, in the general case is to take a debt graph and simplify it (i.e. produce a new graph with the same nodes but different edges).
 
-#Algorithm used 
+# Algorithm used 
 Shortest path algorithm -- 
 A shortest path algorithm, is designed to find the most efficient path or route between two points in a graph. The goal is to minimize a certain metric, such as distance, time, or cost, while navigating through the edges of the graph.
 Two common algorithms for finding the shortest path are Dijkstra's algorithm and the Bellman-Ford algorithm, as mentioned earlier. Dijkstra's algorithm is particularly effective when dealing with graphs with non-negative weights, while the Bellman-Ford algorithm is more versatile and can handle graphs with negative weights.

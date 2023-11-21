@@ -22,7 +22,7 @@ The algorithm we used here also follows Greedy algorithm
 Greedy algorithm -- An algorithm paradigm that follows problem solving approach of making the locally optimal choice of solution at each stage with the hope of finding a global optimum solution.
 Though there are pro's and con's. 
 Con's : There are very few globally optimum solutions.  
-
+![Alt Text](File2.png)
 So, when to use ?
 1. Greedy- choice property : A global optimum can be arrived at by selecting a local optimum
 2. Optimal Substructure: An optimal solution to the problem contains an optimal solution to sub problems.

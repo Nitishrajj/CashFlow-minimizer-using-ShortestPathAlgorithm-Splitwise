@@ -18,6 +18,15 @@ Shortest path algorithm --
 A shortest path algorithm, is designed to find the most efficient path or route between two points in a graph. The goal is to minimize a certain metric, such as distance, time, or cost, while navigating through the edges of the graph.
 Two common algorithms for finding the shortest path are Dijkstra's algorithm and the Bellman-Ford algorithm, as mentioned earlier. Dijkstra's algorithm is particularly effective when dealing with graphs with non-negative weights, while the Bellman-Ford algorithm is more versatile and can handle graphs with negative weights.
 
+The algorithm we used here also follows Greedy algorithm 
+Greedy algorithm -- An algorithm paradigm that follows problem solving approach of making the locally optimal choice of solution at each stage with the hope of finding a global optimum solution.
+Though there are pro's and con's. 
+Con's : There are very few globally optimum solutions.  
+
+So, when to use ?
+1. Greedy- choice property : A global optimum can be arrived at by selecting a local optimum
+2. Optimal Substructure: An optimal solution to the problem contains an optimal solution to sub problems.
+Also you cant go back to in greeedy unlike dynamic programming. 
 # Real time application
 
 # SPLITWISE APPLICATION 
